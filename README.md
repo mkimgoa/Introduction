@@ -34,7 +34,43 @@ You'll need the following programs and extensions for VS Code to be able to work
 >     * Github Classroom
 >         * Sign in with your [Github](https://github.com/) account!
 
+&nbsp; 
+
 ---
+
+&nbsp;
+
+Try creating a `helloworld.py` file and running it.
+
+You can use this code:
+```
+msg = "Hello world!"
+print(msg)
+print("Nice to meet you!")
+# Write something about what you did over the last break
+print("")
+```
+
+* Run the program using the run button on the top right of the IDE
+* **Save** the program when you are done
+* **Commit** your changes to your computer
+    * This creates a new version, like a my_assignment 2.0! This is useful if you want to review changes that have been made.
+* **Push** your changes to Github
+    * This takes the newest version of your code and saves it to GitHub for submission.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+---
+
+# OPTIONAL - run the sample.py program
 
 ## PYTHON MODULES
 
