@@ -21,9 +21,9 @@ You'll need the following programs and extensions for VS Code to be able to work
 > * Additional Programs
 >     * [Python (from the Microsoft Store)](https://www.microsoft.com/en-us/p/python-310/9pjpw5ldxlz5)
 > * [VS Code Extensions](https://code.visualstudio.com/docs/introvideos/extend)
-    * Python (in addition to the install from the Microsoft Store)
-    * Github Classroom
-        * Sign in with your [Github](https://github.com/) account!
+>     * Python (in addition to the install from the Microsoft Store)
+>     * Github Classroom
+>         * Sign in with your [Github](https://github.com/) account!
 
 
 > ### MACOS
